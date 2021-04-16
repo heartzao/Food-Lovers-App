@@ -1,0 +1,58 @@
+[
+  {
+    "imageFile": "food01",
+    "FoodName": "flank-steak",
+    "Storename": "Nuatair",
+    "price": "350 Baht",
+    "star": 1,
+    "Fooddata": "a cut of beef taken from the abdominal muscles or lower chest of the steer. French butchers refer to it as bavette, which means \"bib\". Similarly, it is known in Brazil as fraldinha (literally: \"little diaper\"). The cut is common in Colombia, where it is known as sobrebarriga (\"over the belly\")."
+  },
+  {
+    "imageFile": "food02",
+    "FoodName": "rib-eye-steak",
+    "Storename": "Nuatair",
+    "price": "650 Baht",
+    "star": 4,
+    "Fooddata": "a beefsteak from the rib section. The rib section of beef spans from ribs six through twelve. Ribeye steaks are mostly composed of the longissimus dorsi muscle but also contain the complexus and spinalis muscles."
+  },
+  {
+    "imageFile": "food03",
+    "FoodName": "sirloin-steak",
+    "Storename": "Nuatair",
+    "price": "350 Baht",
+    "star": 2,
+    "Fooddata": "cut from the sirloin, the subprimal posterior to the short loin where the T-bone, porterhouse, and club steaks are cut. The sirloin is actually divided into several types of steak. The top sirloin is the most prized of these and is specifically marked for sale under that name. The bottom sirloin, which is less tender and much larger, is typically marked for sale simply as \"sirloin steak\". The bottom sirloin, in turn, connects to the sirloin tip roast."
+  },
+  {
+    "imageFile": "food04",
+    "FoodName": "T-bone-steak",
+    "Storename": "Nuatair",
+    "price": "350 Baht",
+    "star": 3,
+    "Fooddata": "steaks of beef cut from the short loin (called the sirloin in Commonwealth countries and Ireland). Both steaks include a \"T\"-shaped lumbar vertebra with sections of abdominal internal oblique muscle on each side. Porterhouse steaks are cut from the rear end of the short loin and thus include more tenderloin steak, along with (on the other side of the bone) a large strip steak. T-bone steaks are cut closer to the front, and contain a smaller section of tenderloin. The smaller portion of a T-bone, when sold alone, is known as a filet mignon (called fillet steak in Commonwealth countries and Ireland), especially if cut from the small forward end of the tenderloin."
+  },
+  {
+    "imageFile": "food05",
+    "FoodName": "tenderloin-steak",
+    "Storename": "Nuatair",
+    "price": "500 Baht",
+    "star": 3,
+    "Fooddata": "known as an eye fillet in Australasia, filet in France, Filet Mignon in Brazil, and fillet in the United Kingdom and South Africa, is cut from the loin of beef."
+  },
+  {
+    "imageFile": "food06",
+    "FoodName": "rib-eye-rare-steak",
+    "Storename": "Nuatair",
+    "price": "850 Baht",
+    "star": 5,
+    "Fooddata": "This refers to a steak that’s been cooked for a very short period of time — leaving the centre cool and red in colour. It’s just a stage up from raw meat — but cooked on the outside. Steak doesn’t contain parasites that chicken and pork do — eating it rare doesn’t pose any health risks."
+  },
+  {
+    "imageFile": "food07",
+    "FoodName": "sirloin-medium-rare-steak",
+    "Storename": "Nuatair",
+    "price": "1,050 Baht",
+    "star": 5,
+    "Fooddata": "As meat is cooked, it turns from red to pink to gray to brown to black (if burnt), and the amount of myoglobin and other juices decreases. The color change is due to changes in the oxidation of the iron atom of the heme group in the myoglobin protein. Raw meat is red due to the myoglobin protein in the muscles, not hemoglobin from blood (which also contains a heme group, hence the color). Prior to cooking, the iron atom is in a +2 oxidation state and bound to a dioxygen molecule (O2), giving raw meat its red color. As cooking proceeds, the iron atom loses an electron, moving to a +3 oxidation state and coordinating with a water molecule (H2O), which causes the meat to turn brown."
+  }
+]

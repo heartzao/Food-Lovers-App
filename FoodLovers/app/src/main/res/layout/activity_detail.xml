@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity2">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="260dp">
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/food01" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            android:padding="20dp">
+            <TextView
+                android:id="@+id/namefood"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity=""
+                android:text="xxxxxxxx"
+                android:textSize="24dp"
+                android:textColor="@color/white"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:orientation="horizontal"
+                android:layout_marginTop="7dp">
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/locationwhite"
+                    />
+                <TextView
+                    android:layout_weight="1"
+                    android:id="@+id/namestore"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nuatair"
+                    android:textSize="16dp"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginTop="5dp"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="end"
+                >
+                <ImageView
+                    android:id="@+id/star5"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star4"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star3"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star2"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star1"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/lo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textSize="16dp"
+        tools:text="caption" />
+
+
+</LinearLayout>
